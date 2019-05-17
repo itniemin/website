@@ -73,8 +73,6 @@ cluster.
 
 * [k3s](https://k3s.io) is a lightweight production-grade Kubernetes distribution.  With a super-simple installation process and a binary footprint around 40MB, it is ideal for local-machine development.
 
-* [Ubuntu on LXD](/docs/getting-started-guides/ubuntu/local/) supports a nine-instance deployment on localhost.
-
 ## Hosted Solutions
 
 * [AppsCode.com](https://appscode.com/products/cloud-deployment/) provides managed Kubernetes clusters for various public clouds, including AWS and Google Cloud Platform.
